@@ -1,4 +1,4 @@
-# [DeployPRO](https://deploypro.dev/) `NodeJS Sample` 
+# [DeployPRO NodeJS](https://www.docs.deploypro.dev/samples/nodejs) `Free Sample`
 
 Minimal `NodeJS Sample` provided by [DeployPRO](https://deploypro.dev/) service for testing.
 
@@ -25,4 +25,4 @@ At this point, the app runs at `localhost:5000`
 <br />
 
 ---
-NodeJS Sample - Open-source sample provided by [DeployPRO](https://deploypro.dev/)
+[NodeJS Starter](https://www.docs.deploypro.dev/samples/nodejs) - Open-source sample provided by [DeployPRO](https://deploypro.dev/)
